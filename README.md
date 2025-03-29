@@ -1,5 +1,7 @@
 # Read the first couple of lines to get an idea on how to run/play the game.
 
+#This game is comfirmed to run in at least Visual Studio Code and git hub (also uses visual studio)
+
 #FIRST THING TO DO IS INSTALL EVERYTHING, "pip install pygame, pip install colorama" - DO THIS IN THE CONSOLE PLEASE!!!!!!!!!
 ########## - READ THE FIRST LINE
 ####### - READ THE FIRST LINE
