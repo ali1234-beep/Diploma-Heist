@@ -1,4 +1,4 @@
-# Read the first couple of lines to get an idea on how to run/play the game.
+# Read the first couple of lines to get an idea on how to run/play the game. (Most of my march break was writing this code, around 4 days, ask rayan 😭) (A lot of external help was used to write this code such as Mr watsons unit #1 lessons as well as many other external cites like Reddit/github)
 
 #This game is comfirmed to run in at least Visual Studio Code and git hub (also uses visual studio)
 
